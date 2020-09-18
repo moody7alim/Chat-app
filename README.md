@@ -8,5 +8,6 @@ Simply, got to [https://halim-chat-app.herokuapp.com](https://halim-chat-app.her
 ## Technolgies used
 
 + Node.js
-+ Express.js
 + Socket.io
++ Express.js
++ Mustache templating
